@@ -5,7 +5,7 @@ Yem Hea
 
 ### Run Test
 ```bash
-php tests/ShopTShirt.php
+php tests/index.php
 ```
 
 ![alt text](image.png)
